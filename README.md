@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="200" src="/assets/app.jpg"  />
-
 ###
 
 <div align="center">
